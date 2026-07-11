@@ -5,10 +5,6 @@ FOUR-FACTOR RESILIENCE AGAINST DEATHS OF DESPAIR
 Formal Analysis, Agent-Based Simulation, and Cross-National Evidence
 ==============================================================================
 
-Author  : Sumeyye Bakim
-Affil.  : Department of Computer Engineering, KTO Karatay University
-Date    : 2025
-
 REPLICATION NOTES
 -----------------
 This script reproduces all tables and figures in the manuscript.
