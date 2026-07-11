@@ -1,0 +1,10 @@
+icdr_death_registration_completeness.csv
+  = death_reg_final.csv from Karlinsky (2024), International Completeness of
+    Death Registration, Demographic Research 50(38). doi:10.4054/DemRes.2024.50.38
+    Source: https://github.com/akarlinsky/death_registration  (variable: death_comp)
+  Used by vr_icdr.py to define the >=90%-complete-registration subsample.
+
+vr_icdr.py            -> under-reporting robustness (objective ICDR completeness threshold)
+eb_independence_test.py -> support-effectiveness (E(.)) robustness
+make_robustness_figs.py -> regenerates fig_effrobust.png and fig_vr.png
+make_supp_tables.py     -> Table S4 (effectiveness) CSV
